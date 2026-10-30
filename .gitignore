@@ -3,4 +3,7 @@
 .gradio/*
 .ipynb_checkpoints/*
 .pat
-output.avi
+tmp/*
+forest-path-movie-dataset/
+*.avi
+*.pdf
