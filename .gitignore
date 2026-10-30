@@ -1,1 +1,6 @@
 .venv/*
+.vscode/*
+.gradio/*
+.ipynb_checkpoints/*
+.pat
+output.avi
